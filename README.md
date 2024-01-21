@@ -1,4 +1,4 @@
-# 1.1-Assignment-GitHub
+# Node.js
 const express = require('express');
 const apiRoutes = require('./routes/api');
 
